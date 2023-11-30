@@ -1,0 +1,6 @@
+.universeContainer {
+    border-top: solid 2px white;
+    /*41400 (x4) 55200 (x5) */
+    height: 69000px;
+    background: url("https://upload.wikimedia.org/wikipedia/commons/8/80/Hyades.jpg");
+}
